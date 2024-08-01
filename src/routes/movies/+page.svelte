@@ -15,7 +15,7 @@
         🕸️ Journey into the cosmic depths of the mighty Marvel Cinematic Universe! 🕸️
      </div>
      
-     <div class=" grid grid-rows-2 md:grid-cols-4 gap-12 py-20 flex flex-wrap justify-center gap-x-4">
+     <div class=" grid grid-rows-2 md:grid-cols-4 gap-12 py-20 flex flex-wrap justify-center gap-x">
      
     
        <a href="https://youtu.be/dzxFdtWmjto?si=hGF2KPo3K7xirgzX" >

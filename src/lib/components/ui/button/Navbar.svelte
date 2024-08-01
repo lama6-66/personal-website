@@ -25,9 +25,9 @@
     let issheetopen=false;
 </script>
 
-<div class=" bg-black px-4 py-2 ">
+<div class=" bg-black px-4 py-2 relative">
     <nav class=" flex justify-between mx-12">
-        
+
         <div
             class="bg-red-800 h-10 w-24 py-1 flex justify-center font-bold text-2xl text-white"
         >
@@ -35,7 +35,7 @@
         </div>
 
         <div class="flex gap-3">
-            
+
             <div class="gap-2 uppercase hidden lg:flex">
                 {#each links as link}
                     <Button
@@ -48,14 +48,14 @@
                     </Button>
                 {/each}
             </div>
-         
+
             <Sheet.Root bind:open={issheetopen}>
                 <Sheet.Trigger class="bg-red-800 text-white  flex lg:hidden" >
                     <Button variant="ghost"  size="icon" class="">
                         <svg
                         class="h-6 w-6"
                             xmlns="http://www.w3.org/2000/svg"
-                            
+
                             viewBox="0 0 24 24"
                             ><path
                                 fill="none"
@@ -67,7 +67,7 @@
                             /></svg
                         >
                     </Button>
-        
+
 
                 </Sheet.Trigger>
                 <Sheet.Content class="flex flex-col">
@@ -82,7 +82,7 @@
                         {link.taxt}
                     </Button>
                 {/each}
-                  
+
                 </Sheet.Content>
               </Sheet.Root>
               <ThemeSwitch/>
