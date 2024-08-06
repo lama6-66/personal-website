@@ -12,10 +12,12 @@
     <!-- flex justify-center gap-12 py-20 flex-col md:flex-row    grid-rows-2  grid-clo-4 -->
 
     <div class="flex justify-center items-center font-semibold py-2 text-1xl ">
-        🕸️ Journey into the cosmic depths of the mighty Marvel Cinematic Universe! 🕸️
+        🕸️ Journey into the cosmic depths of the mighty Marvel !🕸️
      </div>
-     
-     <div class=" grid grid-rows-2 md:grid-cols-4 gap-12 py-20 flex flex-wrap justify-center gap-x">
+
+
+     <div class="container mx-auto px-8 md:px-16 lg:px-32  py-20 ">
+     <div class=" grid grid-rows-2 grid-cols-2  md:grid-cols-4 gap-12  flex-wrap justify-center ">
      
     
        <a href="https://youtu.be/dzxFdtWmjto?si=hGF2KPo3K7xirgzX" >
@@ -177,20 +179,11 @@
      </div>
 
 
-
+    </div>
      
 
      </div>
 
 
      
-     <div class=" bg-black px-4 py-6 text-red-800 font-bold flex justify-between">
-         
-       <Button href="https://www.marvel.com/movies">
-             More Movies
-        
-         </Button>
-         
-        
-   
-    </div>
+     

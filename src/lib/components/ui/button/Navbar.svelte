@@ -25,7 +25,7 @@
     let issheetopen=false;
 </script>
 
-<div class=" bg-black px-4 py-2 relative">
+<header class=" bg-black px-4 py-2 relative">
     <nav class=" flex justify-between mx-12">
 
         <div
@@ -89,5 +89,5 @@
         </div>
     </nav>
     <div></div>
-</div>
+</header>
 
