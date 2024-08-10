@@ -96,25 +96,19 @@ Download
 
 <!-- marvelvscapcom -->
 
-</div>
 
-<div clcaa="">
-    <h1 class="font-bold text-black text-lg  px-14 ">
-        All Games
-    </h1>
 
-    <div class="container mx-auto px-8 md:px-16 lg:px-32  py-8 "  >
-        <div class="grid grid-rows-2 grid-cols-2  md:grid-cols-4 gap-8  flex-wrap justify-center">
-            <img src="marvelvscapcom.jpg" class="h-48 "/>
-            <img src="marvelvscapcom.jpg" class="h-48 "/>
-            <img src="marvelvscapcom.jpg" class="h-48 "/>
-            <img src="marvelvscapcom.jpg" class="h-48 "/>
-            <img src="marvelvscapcom.jpg" class="h-48 "/>
-        </div>
-    </div>
+
    
 </div>
 
 </div>
+
+<header class=" bg-black px-4 py-8 relative">
+    <nav class=" flex justify-between mx-12">
+
+    </nav>
+  </header>
+
 
 

@@ -4,6 +4,8 @@
    
     import { toggleMode } from "mode-watcher";
     import { Button } from "$lib/components/ui/button/index.js";
+
+    
   </script>
    
   <Button on:click={toggleMode} variant="ghost" size="icon" class="text-white bg-red-800">

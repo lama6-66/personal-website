@@ -8,6 +8,8 @@
 <ModeWatcher/>
 <Navbar/>
 
-<slot />
-<Footer />
+<main class="min-h-[calc(100dvh-9.5rem)]">
+    <slot />
+</main>
+<!-- <Footer /> -->
 

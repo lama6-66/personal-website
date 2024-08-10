@@ -20,6 +20,11 @@
             taxt: "GAMES",
             href: "/games",
         },
+
+        {
+           text:"CONTACT" ,
+           href: "/contact",
+        }
     ];
 
     let issheetopen=false;
@@ -28,11 +33,11 @@
 <header class=" bg-black px-4 py-2 relative">
     <nav class=" flex justify-between mx-12">
 
-        <div
+        <a href="/"
             class="bg-red-800 h-10 w-24 py-1 flex justify-center font-bold text-2xl text-white"
         >
             MAREL
-        </div>
+    </a>
 
         <div class="flex gap-3">
 

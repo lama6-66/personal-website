@@ -1,5 +1,8 @@
 <script>
   import Button from "$lib/components/ui/button/button.svelte";
+  
+  
+
 </script>
 
 <div class="max-w-[100dvw] overflow-clip">
@@ -11,8 +14,14 @@
       <h1 class="text-red-800 py-10 text-7xl flex justify-center">
           MAREL
       </h1>
+      <div class="flex flex-row gap-x-4">
       <Button class="flex justify-center">
           <a href="https://www.marvel.com/">official website</a>
       </Button>
+      <Button class="flex justify-center w-32 ">
+        <a href="/Resume">Resume</a>
+    </Button>
   </div>
+  </div>
+
 </div>

@@ -183,7 +183,11 @@
      
 
      </div>
-
+     <header class=" bg-black px-4 py-8 relative">
+      <nav class=" flex justify-between mx-12">
+  
+      </nav>
+    </header>
 
      
      
