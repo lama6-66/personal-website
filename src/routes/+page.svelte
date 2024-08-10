@@ -19,7 +19,7 @@
           <a href="https://www.marvel.com/">official website</a>
       </Button>
       <Button class="flex justify-center w-32 ">
-        <a href="/Resume">Resume</a>
+        <a href="/Resume">Project</a>
     </Button>
   </div>
   </div>
