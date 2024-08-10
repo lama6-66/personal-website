@@ -6,7 +6,7 @@
 </script>
 
 <div class="max-w-[100dvw] overflow-clip">
-  <video src="MV.mp4" autoplay loop muted
+  <video src="MV.mp4" autoplay loop muted playsinline
          class="absolute -z-10 h-[calc(100dvh-3.5rem)] w-[100dvw] object-cover max-w-none">
       <source src="MV.mp4" type="MV.mp4">
   </video>
