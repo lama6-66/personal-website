@@ -34,9 +34,9 @@
     <nav class=" flex justify-between mx-12">
         <a
             href="/"
-            class="bg-red-800 h-10 w-24 py-1 flex justify-center font-bold text-2xl text-white"
+            class="bg-red-800 h-10 w-24 py-1 flex justify-center font-bold text-xl text-white"
         >
-            MAREL
+            MARVEL
         </a>
 
         <div class="flex gap-3">
