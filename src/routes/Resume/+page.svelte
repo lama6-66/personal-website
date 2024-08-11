@@ -108,7 +108,11 @@
 
             </span>
 
-
+            <div class="flex flex-row  gap-x-4">
+                <img class="h-10 w-8" src="pngwing.com.png" />
+                <img class="h-10 w-8" src="green).png" />
+              </div>
+  
 
         </nav>
     </header>

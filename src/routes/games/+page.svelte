@@ -18,7 +18,7 @@
 
         <div class="h-72 w-80 rounded-2xl  flex flex-col px-4 py-4 mb-8"
             style="background: radial-gradient(circle, #fff8b0, #fff8b0 10%, transparent 10%, transparent), repeating-conic-gradient(from 0deg, #fff8b0, #fff8b0 5deg, #ffd966 10deg, #ff9900 10deg); background-size: 10px 10px, 100%;">
-            <video src="1943.mp4" alt="" autoplay loop muted class="rounded-2xl "></video>
+            <video playsinline src="1943.mp4" alt="" autoplay loop muted class="rounded-2xl "></video>
             <div class=" flex flex-row ">
 
                 <img src="pho1943.jpg " class="w-24 h-36 py-5 " />
@@ -29,8 +29,8 @@
 
                 </p>
 
-                <a class="py-24">
-                    <button class="h-8 w-24 bg-red-800 rounded-2xl  text-8">
+                <a href="https://www.marvel.com/games/marvel-1943-rise-of-hydra" class="py-24">
+                    <button  class="h-8 w-24 bg-red-800 rounded-2xl  text-8">
                         Download
                     </button>
                 </a>
@@ -43,7 +43,7 @@
         <!-- marvelsblade -->
         <div class="h-72 w-80 rounded-2xl flex flex-col px-4 py-4"
             style="background: radial-gradient(circle, #e0f7da, #e0f7da 10%, transparent 10%, transparent), repeating-conic-gradient(from 0deg, #e0f7da, #e0f7da 5deg, #a5d6a7 5deg, #a5d6a7 10deg); background-size: 10px 10px, 100%;">
-            <video src="marvelsblade2.MP4" alt="" autoplay loop muted class="rounded-2xl "></video>
+            <video playsinline src="marvelsblade2.MP4" alt="" autoplay loop muted class="rounded-2xl "></video>
 
             <div class=" flex flex-row ">
 
@@ -71,7 +71,7 @@
         <!-- marvelpinball -->
         <div class="h-72 w-80 rounded-2xl flex flex-col px-4 py-4 "
             style="background: radial-gradient(circle, #d0e7ff, #d0e7ff 10%, transparent 10%, transparent), repeating-conic-gradient(from 0deg, #d0e7ff, #d0e7ff 5deg, #90caf9 5deg, #90caf9 10deg); background-size: 10px 10px, 100%;">
-            <video src="marvelpinball2.MP4" alt="" autoplay loop muted class=" w-58 h-32 rounded-2xl "></video>
+            <video playsinline src="marvelpinball3.MP4" alt="" autoplay loop muted class=" w-66 h-32 rounded-2xl "></video>
 
             <div class=" flex flex-row ">
 
@@ -150,6 +150,12 @@
                 </a>
 
             </span>
+
+            <div class="flex flex-row  gap-x-4">
+                <img class="h-10 w-8" src="pngwing.com.png" />
+                <img class="h-10 w-8" src="green).png" />
+              </div>
+  
 
 
 
