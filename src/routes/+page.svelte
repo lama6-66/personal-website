@@ -21,7 +21,13 @@
       <Button class="flex justify-center w-32 ">
         <a href="/Resume">Project</a>
     </Button>
+
   </div>
+  <div class="my-6">
+  <Button class="flex justify-center w-32 ">
+    <a href="http://localhost:5173/Programmer">Programmer</a>
+</Button>
+</div>
   </div>
 
 </div>

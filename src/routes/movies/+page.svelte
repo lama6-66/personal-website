@@ -12,7 +12,11 @@
     <!-- flex justify-center gap-12 py-20 flex-col md:flex-row    grid-rows-2  grid-clo-4 -->
 
     <div class="flex justify-center items-center font-semibold py-2 text-sm text-red-800">
-        🕸️ Journey into the cosmic depths of the mighty Marvel !🕸️
+        <div class="flex mx-2">
+        <img class="h-10 w-14 mx-4" src="giphy.webp"/>
+         Journey into the cosmic depths of the mighty Marvel !
+         <img class="h-10 w-14" src="giphy.webp"/>
+        </div>
      </div>
 
 

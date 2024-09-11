@@ -4,67 +4,47 @@
 
 <div class="max-w-screen-sm mx-auto pt-16 px-4 min-h-screen flex flex-col">
     <h1 class="mx-auto w-fit text-4xl font-bold flex items-center">
-        <div >
+        <div class=" ">
         <div class="bg-black w-5 h-5 me-4" />
-       
-        <img class="h-6-10 w-8 flex justify-center mx-0" src="spider.gif"/>
-    </div>
-        <span class="text-red-800">Projects</span>
+     
+            <img class="h-6-10 w-8 flex justify-center mx-0" src="spider.gif"/>
+        </div>
+        <span class="text-red-800">Programmer</span>
+        
     </h1>
-
+   
     <div class="pt-12 flex flex-col gap-6 flex-grow">
-        <div class="flex justify-center text-red-800 font-semibold py-1">
-            Discover my work that sets me apart.
-        </div>
-
-        <div class="bg-black gap-x-5 shadow-2xl flex flex-col sm:flex-row mb-8 ">
-            <div class="flex flex-col gap-6 pt-6">
-                <div class="border-s-8 border-red-800 ps-6 flex flex-col">
-                    <span class="font-bold text-lg text-red-800">
-                        Calculator</span
-                    >
-                    <span class="text-red-800">Project</span>
-                </div>
-                <div class="text-red-800 ps-4 flex flex-col">
-                    <p>
-                        Calculate easily and accurately with our simple
-                         
-                    </p>
-                    <p>
-                        calculator – instant solutions for your everyday
-                        calculations.
-                    </p>
-
-                    <Button class="h-8 w-20 my-4 bg-red-800" href="https://cute-starlight-e0bdd2.netlify.app/">
-                     Try it!
-                    </Button>
-                </div>
-            </div>
-            <img src="C2.png" class="w-auto sm:w-44 ml-auto object-cover mt-4 sm:mt-0" />
+        <div class="flex justify-center text-red-800 font-semibold py-2">
+            Software engineering fuels endless innovation.
         </div>
     </div>
-
-    <div class="bg-black gap-x-5 shadow-2xl flex flex-col sm:flex-row mb-8">
+    <div class="bg-black gap-x-5 shadow-2xl flex flex-col sm:flex-row mb-8 ">
         <div class="flex flex-col gap-6 pt-6">
             <div class="border-s-8 border-red-800 ps-6 flex flex-col">
-                <span class="font-bold text-lg text-red-800"> Task</span>
-                <span class="text-red-800">Project</span>
+                <span class="font-bold text-lg text-red-800">
+                    Programmer</span
+                >
+                <span class="text-red-800">Who Am I?</span>
             </div>
             <div class="text-red-800 ps-4 flex flex-col">
                 <p>
-                    Organize your time and track your tasks effortlessly 
+                    I am Lama Al-Juaid, a student in Software Engineering. I am passionate about modern programming technologies and continuously strive to enhance my skills in this field.
                 </p>
-                <p>–
-                    always stay on top of what needs to be done.</p>
+                <p>
+                    I am focused on gaining deep knowledge in software and application development and aim to contribute to innovative tech projects that improve digital experiences. 
+                </p>
 
-                <Button class="h-8 w-20 my-4 bg-red-800" href="https://todolistlama.netlify.app/">
-                    Try it!
-                   </Button>
+               <div class="my-4 flex gap-x-14 justify-center">
+             <img class="h-16 w-16" src="wolverine-marvel.gif"/>
+             <img class="h-16 w-16" src="war.gif"/>
+             <img class="h-18 w-20" src="manimarcus.gif"/>
+               </div>
             </div>
         </div>
-        <img src="T2.png" class="w-auto sm:w-44 ml-auto object-cover mt-4 sm:mt-0" />
+       
     </div>
 </div>
+
 
 <footer>
     <header class=" bg-black px-4 py-8 relative">
@@ -121,3 +101,5 @@
         </nav>
     </header>
 </footer>
+
+
