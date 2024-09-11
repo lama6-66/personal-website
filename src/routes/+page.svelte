@@ -25,7 +25,7 @@
   </div>
   <div class="my-6">
   <Button class="flex justify-center w-32 ">
-    <a href="http://localhost:5173/Programmer">Programmer</a>
+    <a href="/Programmer">Programmer</a>
 </Button>
 </div>
   </div>
